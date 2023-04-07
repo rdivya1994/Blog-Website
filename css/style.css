@@ -568,7 +568,6 @@ section{
     min-width: 120px;
     min-height: 58px;
     background: lightgray;
-    /* box-shadow: 9px 9px 12px #b2b2b3, -9px -9px 12px #ffffff; */
     display: inline-flex;
     justify-content: center;
     align-items: center;
