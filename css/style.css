@@ -382,7 +382,7 @@ section{
 }
 
 .contact{
-    background:url(../images/2.jpg) no-repeat;
+    background:url(../images/contact.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -464,17 +464,6 @@ section{
 }
 
 .bolded { font-weight: bold; }
-
-
-
-
-
-
-
-
-
-
-
 
 /* media queries  */
 
